@@ -1,0 +1,19 @@
+# Session / assistant history — never publish
+.remember/
+.claude/
+
+# Dependencies & native builds
+node_modules/
+android/
+ios/
+package-lock.json
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.log
+.vscode/
+.idea/
+
+# Local browser captures and temporary validation work
+scratch/

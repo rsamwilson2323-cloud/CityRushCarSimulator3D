@@ -1,0 +1,9 @@
+{
+  "appId": "com.nitrocity.game",
+  "appName": "City Rush Car Simulator 3D",
+  "webDir": ".",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  }
+}
